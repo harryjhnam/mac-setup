@@ -5,6 +5,7 @@
 - [Jolt](https://apps.apple.com/kr/app/jolt-of-caffeine/id1437130425?mt=12)
 - [iTerm2](https://iterm2.com/)
 - [Arc](https://arc.net/)
+- [Postman](https://www.postman.com/downloads/)
 
 ### 🛠️ Setups
 - **homebrew**: [official link](https://brew.sh/ko/)
