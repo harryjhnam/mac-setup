@@ -2,7 +2,7 @@
 > Thing todo for a new Mac
 
 ### 📱 Apps
-- Terminal: [Ghossty]([https://iterm2.com/](https://ghostty.org/))
+- Terminal: [Ghossty](https://ghostty.org/)
 - Browser: [Dia](https://www.diabrowser.com/release-notes/latest)
 - Screensaver settings: [Jolt](https://apps.apple.com/kr/app/jolt-of-caffeine/id1437130425?mt=12)
 - [Postman](https://www.postman.com/downloads/)
